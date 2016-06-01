@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable-mdpi-v4/lgbar.png",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable-mdpi/lgbar.png"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

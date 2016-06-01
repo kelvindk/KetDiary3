@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/spinner_color.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/spinner_color.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_left_exit.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_left_exit.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/setting_button_normal.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/setting_button_normal.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/custom_progressbar.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/custom_progressbar.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_right_exit.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_right_exit.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/tab_bg_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/tab_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/toast_normal_bg.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/toast_normal_bg.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/tab_statistic_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/tab_statistic_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/bar_button_right.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/bar_button_right.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/icon_testself_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/icon_testself_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_progress.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_progress.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/mybutton_blue.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/mybutton_blue.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/button_btcalendar.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/button_btcalendar.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_walk.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_walk.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_random_question.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_random_question.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/seekbar.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/seekbar.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_right_enter.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_right_enter.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/button_filter.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/button_filter.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_stretch.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_stretch.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/calendar_button_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/calendar_button_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/menu_button.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/menu_button.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/menu_divider.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/menu_divider.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/button_start_test2.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/button_start_test2.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/radio_button.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/radio_button.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_tutorial_arrow.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_tutorial_arrow.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/setting_edit_bg.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/setting_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_clock2.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_clock2.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/drawer_handle.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/drawer_handle.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/bar_button_left.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/bar_button_left.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/my_filter.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/my_filter.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/tab_storytelling_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/tab_storytelling_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/transparent_bg.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/transparent_bg.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/button_start_test.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/button_start_test.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/setting_button_pressed.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/setting_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/text_color.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/text_color.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/text_color2.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/text_color2.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_music.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_music.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_clock.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_clock.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/button_rotate.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/button_rotate.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/bar_button_transparent.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/bar_button_transparent.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/mybutton_red.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/mybutton_red.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/setting_button.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/setting_button.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_breath.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_breath.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/bar_button.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/bar_button.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/choose_color.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/choose_color.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/list_divider.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/list_divider.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/mybutton_add.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/mybutton_add.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/animation_left_enter.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/animation_left_enter.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/tab_test_selector.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/tab_test_selector.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/drawable/down_arrow_change.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/drawable/down_arrow_change.xml"
+    }
+]

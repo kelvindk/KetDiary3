@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/bo.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/bo.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/server171.bks",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/server171.bks"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/ding.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/ding.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/emotion_1.mp3",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/emotion_1.mp3"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/end_count_down.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/end_count_down.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/keys.bks",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/keys.bks"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/din_ding.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/din_ding.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/emotion_3.mp3",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/emotion_3.mp3"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/emotion_0.mp3",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/emotion_0.mp3"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/rehabkey.bks",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/rehabkey.bks"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/alcohol_certificate.bks",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/alcohol_certificate.bks"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/supply.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/supply.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/emotion_2.mp3",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/emotion_2.mp3"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/short_beep.ogg",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/short_beep.ogg"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/raw/mykeystore.bks",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/raw/mykeystore.bks"
+    }
+]

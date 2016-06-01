@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/menu/dev.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/menu/dev.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/menu/event_cope_skill.xml",
+        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/menu/event_cope_skill.xml"
+    }
+]

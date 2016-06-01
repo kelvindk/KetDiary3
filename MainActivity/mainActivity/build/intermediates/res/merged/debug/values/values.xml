@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_message">
+        <item>此應用程式由</item>
+        <item>合作開發。</item>
+        <item>開發目的為協助愷他命依賴患者在日常</item>
+        <item>生活中能持續戒毒。此應用程式需要搭</item>
+        <item>配專用口水檢測器方可使用。</item>
+        <item>應用介面視覺設計：</item>
+    </string-array>
+    <string-array name="agreement">
+        <item>非常不認同</item>
+        <item>不認同</item>
+        <item>普通</item>
+        <item>認同</item>
+        <item>非常認同</item>
+    </string-array>
+    <string-array name="analysis_rank_change_help">
+        <item>第一名</item>
+        <item>第二名</item>
+        <item>第三名</item>
+        <item/>
+        <item>進步了</item>
+        <item>後退了</item>
+    </string-array>
+    <string-array name="audio_box_help">
+        <item>錄下或聆聽在</item>
+        <item>的心情\n(最長可達一分鐘)</item>
+    </string-array>
+    <string-array name="coping_list">
+        <item>社交壓力的應對方法：\n當朋友邀約吸毒時，您可以委婉拒絕</item>
+        <item>負面情緒的應對方法：\n可以使用放鬆技巧來緩和情緒</item>
+    </string-array>
+    <string-array name="coping_list0">
+        <item>&lt;font face="DFKai-sb">一般的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話&lt;/font>給願意幫助你的親友求助吧！&lt;/font></item>
+        <item>&lt;font face="DFKai-sb">一般的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>傳訊息&lt;/font>給願意幫助你的親友求助吧！&lt;/font></item>
+        <item>&lt;font face="DFKai-sb">一般的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>聆聽舒緩音樂&lt;/font>讓自己冷靜下來，再多思考一下後果。&lt;/font></item>
+
+    </string-array>
+    <string-array name="coping_list1">
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼專注觀察呼吸&lt;/font>來緩和情緒。&lt;/font></item>
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼讓肌肉放鬆&lt;/font>，緩和一下。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#C2B5FF face="DFKai-sb">負面情緒</font><font face="DFKai-sb">的應對方法</font><br><font face="DFKai-sb">(幫助平靜的圖片)</font>]]></item> -->
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">請點開你的歌單，&lt;font color=#f2a6a3>聆聽一曲&lt;/font>你喜愛的歌，平衡一下心情。&lt;/font></item> <!-- 本來是寫舒緩音樂 -->
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像你漫步在充滿鳥鳴、綠意以及芬多精的氣息的森林中。&lt;/font></item>
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像海浪一波一波打上你的腳，你的心漸漸像海浪聲一般，開始有了節奏。&lt;/font></item>
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像陽光灑進屋中，桌几、牆壁以及你的身上，一切都明亮了。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#C2B5FF face="DFKai-sb">負面情緒</font><font face="DFKai-sb">的應對方法</font><br><font face="DFKai-sb">休息</font>]]></item> -->
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">即使只有幾分鐘，做一下你喜愛的&lt;font color=#f2a6a3>休閒活動&lt;/font>吧，會有效果的。&lt;/font></item>
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友&lt;/font>傾訴，會感覺好一些~&lt;/font></item>
+        <item>&lt;font color=#C2B5FF face="DFKai-sb">負面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">心情不好的時候，&lt;font color=#f2a6a3>傳個訊息給親友&lt;/font>吧，聊聊可以讓自己不要一直陷在負面的狀態裡。&lt;/font></item>
+    </string-array>
+    <string-array name="coping_list2">
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼專注觀察呼吸&lt;/font>來緩和情緒。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼讓肌肉放鬆&lt;/font>，緩和一下。&lt;/font></item>
+        <!-- <item>身體不舒服</font><font face="DFKai-sb">的應對方法</font>\n(幫助平靜的圖片)</item> -->
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">請點開你的歌單，&lt;font color=#f2a6a3>聆聽一曲&lt;/font>你喜愛的歌，平衡一下心情。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像你漫步在充滿鳥鳴、綠意以及芬多精的氣息的森林中，身體漸漸冷靜。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像海浪一波一波打上你的腳，你的心漸漸像海浪聲一般跳動，身體被海水所治癒。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像溫暖的陽光灑在身上，身上的痛苦慢慢平靜下來了。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">請多多&lt;font color=#f2a6a3>休息&lt;/font>，別讓身體累壞了。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">不會更不舒服的話，做一下你喜愛的、適當的&lt;font color=#f2a6a3>休閒活動&lt;/font>可以讓你忽略身體上的不適。&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打個電話給親友&lt;/font>聊天轉移注意力吧！&lt;/font></item>
+        <item>&lt;font color=#8C7AA8 face="DFKai-sb">身體不舒服&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>傳訊息給親友&lt;/font>聊天轉移注意力吧！&lt;/font></item>
+
+    </string-array>
+    <string-array name="coping_list3">
+        <item>&lt;font color=#FF7AA6 face="DFKai-sb">正面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友&lt;/font>告知他們你的狀態。&lt;/font></item>
+        <item>&lt;font color=#FF7AA6 face="DFKai-sb">正面情緒&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">傳訊息給親友告知他們你的狀態。&lt;/font></item>
+    </string-array>
+    <string-array name="coping_list4">
+        <item>&lt;font color=#FDC16E face="DFKai-sb">測試自我控制力&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友&lt;/font>聊聊，要知道自己可以控制的話，之前就不會成癮了。&lt;/font></item>
+        <item>&lt;font color=#FDC16E face="DFKai-sb">測試自我控制力&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友聊聊&lt;/font>，要知道自己可以控制的話，之前就不會成癮了。&lt;/font></item>
+
+    </string-array>
+    <string-array name="coping_list5">
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼專注觀察呼吸&lt;/font>來緩和情緒。&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼讓肌肉放鬆&lt;/font>，緩和一下。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#FF8B7D face="DFKai-sb">負面情緒<font face="DFKai-sb">的應對方法</font></font><br><font face="DFKai-sb">(幫助平靜的圖片)</item> -->
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">請點開你的歌單，&lt;font color=#f2a6a3>聆聽一曲&lt;/font>你喜愛的歌，並專注在這個歌上，忘卻其他的事務吧。&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像你漫步在充滿鳥鳴、綠意以及芬多精的氣息的森林中，心中無欲無求。&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像海浪一波一波打上你的腳，浪潮的聲音有節奏地響著。&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像陽光灑進屋中，桌几、牆壁以及你的身上，你只想專注在這上面。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#FF8B7D face="DFKai-sb">誘惑與衝動</font><font face="DFKai-sb">的應對方法</font></font><br><font face="DFKai-sb">休息</font>]]></item> -->
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">快做做你喜歡的&lt;font color=#f2a6a3>休閒活動&lt;/font>轉移注意力！&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>打電話給親友&lt;/font>，讓親友轉移你的注意力。&lt;/font></item>
+        <item>&lt;font color=#FF8B7D face="DFKai-sb">誘惑與衝動&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>傳訊息給親友&lt;/font>，讓親友轉移你的注意力。&lt;/font></item>
+
+
+    </string-array>
+    <string-array name="coping_list6">
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼專注觀察呼吸&lt;/font>來緩和情緒。&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著&lt;font color=#f2a6a3>閉眼讓肌肉放鬆&lt;/font>，緩和一下。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難</font><font face="DFKai-sb">的應對方法</font><br><font face="DFKai-sb">(幫助平靜的圖片)</font>]]></item> -->
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>聆聽舒緩音樂&lt;/font>讓自己冷靜下來，再換個角度站在他的立場想想。&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像你漫步在充滿鳥鳴、綠意以及芬多精的氣息的森林中，自己漸漸變得柔軟。&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像海浪一波一波打上你的腳，浪潮的聲音有節奏地響著。&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">你可以試著想像陽光灑進屋中，桌几、牆壁以及你的身上，你只想專注在這上面。&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難</font><font face="DFKai-sb">的應對方法</font><br><font face="DFKai-sb">休息</font>]]></item> -->
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">做一下你喜愛的&lt;font color=#f2a6a3>休閒活動吧&lt;/font>~&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>遠離現場&lt;/font>，先讓自己冷靜下來，別陷入了！&lt;/font></item>
+        <!-- <item><![CDATA[<font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難</font><font face="DFKai-sb">的應對方法</font><br><font face="DFKai-sb">練習拒絕</font>]]></item> -->
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話問問親友的意見&lt;/font>，自己一個人的話在這種情況下容易做出不適當的判斷。&lt;/font></item>
+        <item>&lt;font color=#71C4BE face="DFKai-sb">與他人相處上遇到困難&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>傳訊息問問親友的意見&lt;/font>，自己一個人的話在這種情況下容易做出不適當的判斷。&lt;/font></item>
+
+
+    </string-array>
+    <string-array name="coping_list7">
+        <item>&lt;font color=#BBE578 face="DFKai-sb">維持社交&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>遠離現場&lt;/font>，替自己爭取找理由的時間。&lt;/font></item>
+        <item>&lt;font color=#BBE578 face="DFKai-sb">維持社交&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>練習拒絕&lt;/font>，可以看看拒絕人的書或是文章。&lt;/font></item>
+        <item>&lt;font color=#BBE578 face="DFKai-sb">維持社交&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友&lt;/font>，他們會有方法的。&lt;/font></item>
+        <item>&lt;font color=#BBE578 face="DFKai-sb">維持社交&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>傳訊息給親友&lt;/font>，他們會有方法的。&lt;/font></item>
+    </string-array>
+    <string-array name="coping_list8">
+        <item>&lt;font color=#9AD1F9 face="DFKai-sb">與他人相聚&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">&lt;font color=#f2a6a3>打電話給親友&lt;/font>，關係更重要的親友們知道你這樣做會很難過的。&lt;/font></item>
+        <item>&lt;font color=#9AD1F9 face="DFKai-sb">與他人相聚&lt;/font>&lt;font face="DFKai-sb">的應對方法:&lt;/font>&lt;br>&lt;font face="DFKai-sb">想想，普通的親友們知道你這樣做會開始遠離你，得不償失啊！&lt;/font></item>
+
+    </string-array>
+    <string-array name="craving_state">
+        <item>無\n　</item>
+        <item>ㄧ點\n</item>
+        <item>輕微\n可以控制</item>
+        <item>輕度\n但未行動</item>
+        <item>輕中度\n蠢蠢欲動</item>
+        <item>中度\n想去買</item>
+        <item>中強度\n等一下買</item>
+        <item>強烈\n考慮要喝</item>
+        <item>很強烈\n猶豫再喝</item>
+        <item>極強烈\n馬上就喝</item>
+    </string-array>
+    <string-array name="emotionDIY_solution">
+        <item>閉眼專注聆聽舒緩音樂</item>
+        <item>閉眼專注觀察呼吸</item>
+        <item>專心健走 10 ~ 30 分鐘</item>
+        <item>從事休閒活動</item>
+        <item>尋求社區心理諮商</item>
+        <item>與親友聊天</item>
+    </string-array>
+    <string-array name="emotion_manage_emotion">
+        <item>快樂</item>
+        <item>興奮</item>
+        <item>感覺被愛</item>
+        <item>悲傷</item>
+        <item>傷感</item>
+        <item>惱怒</item>
+        <item>後悔挫折</item>
+        <item>煩悶</item>
+        <item>害怕</item>
+        <item>擔心</item>
+    </string-array>
+    <string-array name="emotion_manage_related">
+        <item>人物</item>
+        <item>事件</item>
+        <item>物品</item>
+        <item>現在情境</item>
+    </string-array>
+    <string-array name="emotion_state">
+        <item>　沮喪　</item>
+        <item>　低落　</item>
+        <item>　普通　</item>
+        <item>　愉快　</item>
+        <item>　快樂　</item>
+    </string-array>
+    <string-array name="item_select">
+        <item>請點選類別以選擇</item>
+    </string-array>
+    <string-array name="knowing_list">
+        <item>愷他命屬中樞神經抑制劑，副作用包括&lt;font color=#f2a6a3>心搏過速、血壓上升&lt;/font>。</item>
+        <item>愷他命副作用包括&lt;font color=#f2a6a3>震顫、肌肉緊張&lt;/font>而呈強直性、陣攣性運動。</item>
+        <item>研究顯示濫用愷他命，會罹患慢性間質性&lt;font color=#f2a6a3>膀胱炎&lt;/font>。</item>
+        <item>濫用愷他命會使膀胱容量變小，產生&lt;font color=#f2a6a3>頻尿、小便疼痛、血尿、下腹部疼痛&lt;/font>等症狀。</item>
+        <item>濫用愷他命會出現&lt;font color=#f2a6a3>尿量減少、水腫等腎功能不全&lt;/font>的症狀，甚至須進行膀胱重建手術。</item>
+        <item>愷他命藥效約可維持1小時，但&lt;font color=#f2a6a3>影響吸食者感覺、協調及判斷力&lt;/font>則可長達16至24小時。</item>
+        <item>愷他命藥效會使人產生&lt;font color=#f2a6a3>噁心、嘔吐、複視、視覺模糊、影像扭曲、暫時性失憶及身體失去平衡&lt;/font>等症狀。</item>
+        <item>拉K會&lt;font color=#f2a6a3>傷害鼻黏膜&lt;/font>，而產生不斷流鼻水。</item>
+        <item>愷他命長期下來會產生心理依賴性及耐受性，造成強迫使用，&lt;font color=#f2a6a3>不易戒除&lt;/font>。</item>
+        <item>駕駛者在使用K他命時，&lt;font color=#f2a6a3>手眼協調能力及平衡感，均會下降&lt;/font>，因而增加車禍發生的風險。</item>
+        <item>愷他命會使使用者辨識周圍環境的&lt;font color=#f2a6a3>危險及警覺性會降低&lt;/font>。</item>
+        <item>泌尿道症狀後停用K他命時，大約1/3的人膀胱炎症狀會好轉，1/3症狀會持平，1/3症狀繼續惡化。</item>
+        <item>研究指出每日使用K他命的個案可能有類似&lt;font color=#f2a6a3>精神分裂者潛伏期的症狀&lt;/font>。</item>
+        <item>Q： 毒品是否有毒性輕重的區別？&lt;br>A：任何一種毒品都有潛藏的&lt;font color=#f2a6a3>致命性&lt;/font>。</item>
+        <item>Q： Ketamine是什麼？&lt;br>A：Ketamine被&lt;font color=#f2a6a3>用於人類和動物手術中之麻醉&lt;/font>。</item>
+        <item>Q： Ketamine如果使用不適當會有什麼害處？&lt;br>A：嚴重時會產生&lt;font color=#f2a6a3>譫妄、健忘、運動功能受損、高血壓&lt;/font>。</item>
+        <item>Q： 毒癮可能戒掉嗎？&lt;br>A：若不幸染上毒癮，要&lt;font color=#f2a6a3>找專業人員協助，靠著堅強的意志力，還是有可能戒除&lt;/font>。</item>
+        <item>長期使用愷他命會造成&lt;font color=#f2a6a3>永久性長期與短期記憶力的缺陷&lt;/font>。若完全停止使用愷他命長達一年以上，情形是可以改善的。</item>
+        <item>頻繁的使用愷他命容易造成往後&lt;font color=#f2a6a3>長期的心情鬱悶、沮喪&lt;/font>等症狀。</item>
+        <item>想要戒除愷他命，立即&lt;font color=#f2a6a3>停止任何愷他命&lt;/font>的使用會比減量使用還來得有效。</item>
+        <item>了解自己想要使用愷他命的原因與場合，進而去&lt;font color=#f2a6a3>思考如何避免這些因素&lt;/font>，是戒除愷他命的有效方法。</item>
+        <item>&lt;font color=#f2a6a3>正常三餐、充足睡眠、減低壓力和健康的娛樂活動&lt;/font>可大大幫助戒除愷他命。</item>
+        <item>製造、運輸、販賣第三級毒品者，處&lt;font color=#f2a6a3>七年以上有期徒刑，得併科新臺幣七百萬元&lt;/font>以下罰金。</item>
+        <item>意圖販賣而持有第三級毒品者，處&lt;font color=#f2a6a3>三年以上十年以下有期徒刑，得併科新臺幣三百萬元&lt;/font>以下罰金。</item>
+        <item>持有第三級毒品純質淨重二十公克以上者，處&lt;font color=#f2a6a3>三年以下有期徒刑，得併科新臺幣三十萬元&lt;/font>以下罰金。</item>
+        <item>無正當理由持有或施用第三級或第四級毒品者，處&lt;font color=#f2a6a3>新臺幣五萬元以下罰鍰，並接受四小時以上八小時以下講習&lt;/font>。</item>
+        <item>以強暴、脅迫、欺瞞或其他非法之方法使人施用第三級毒品者，處&lt;font color=#f2a6a3>五年以上有期徒刑，得併科新臺幣五百萬元&lt;/font>以下罰金。</item>
+        <item>引誘他人施用第三級毒品者，處&lt;font color=#f2a6a3>六月以上五年以下有期徒刑，得併科新臺幣七十萬元&lt;/font>以下罰金。</item>
+        <item>轉讓第三級毒品者，處&lt;font color=#f2a6a3>三年以下有期徒刑，得併科新臺幣三十萬元&lt;/font>以下罰金。</item>
+        <item>Q: 若有相關戒毒的問題，民眾可以撥打哪支電話尋求幫助?&lt;br>A： &lt;font color=#f2a6a3>0800&amp;#8211;770&amp;#8211;885&lt;/font>。</item>
+        <item>Q: 毒癮個案除戒毒還有哪些服務？&lt;br>1.就業需求、職業訓練－就業輔導(勞工處)&lt;br>2.申請社會補助、安養－就養(社會處)&lt;br>3.升學需求、升學資訊－就學輔導(教育處)&lt;br>4.心理諮商、心理輔導－衛生局及本縣社區心理衛生中心&lt;br>5.愛滋病篩檢－本縣各衛生所及醫療機構。</item>
+  <!--  <item><![CDATA[<b><font color=#0000FF>Hello world!</b>]]></item>      -->        
+     </string-array>
+    <string-array name="lapse_list">
+        <item>我已決定停用了！</item>
+        <item>我已經開始新的生活了！</item>
+        <item>我值得更好的生活！</item>
+        <item>我是個值得被尊重的人！</item>
+        <item>我正在一點一點地變好！</item>
+        <item>現在放棄就前功盡棄了！</item>
+        <item>這次我一定可以！</item>
+        <item>別走回頭路！</item>
+    </string-array>
+    <string-array name="lifestyle_list">
+        <item>放鬆身心，停整作息</item>
+        <item>多運動有益身心健康</item>
+        <item>早睡早起身體好</item>
+        <item>一天5蔬果，疾病遠離我</item>
+        <item>多喝水沒事，沒事多喝水</item>
+        <item>少吃垃圾食物</item>
+        <item>愛自己的身體</item>
+        <item>充足睡眠</item>
+        <item>遠離菸酒</item>
+    </string-array>
+    <string-array name="note_conflict">
+        <item>在他人面前感到緊張或不自在</item>
+        <item>難以向他人表達情感</item>
+        <item>不被別人喜歡</item>
+        <item>別人不公平對待</item>
+        <item>他人給過大壓力</item>
+        <item>在職場/學校和別人處得不好</item>
+        <item>家裡有人吵架</item>
+        <item>沒達到他人期望</item>
+        <item>感覺需要勇氣才能面對他人</item>
+        <item>覺得被他人掌控</item> 
+    </string-array>
+    <string-array name="note_date">
+        <item>今天</item>
+        <item>昨天</item>
+        <item>前天</item>
+    </string-array>
+    <string-array name="note_mood">
+        <item>開心</item>
+        <item>難過</item>
+        <item>生氣</item>
+    </string-array>
+    <string-array name="note_negative">
+        <item>沮喪</item>
+        <item>走投無路</item>
+        <item>對自己失望</item>
+        <item>無聊</item>
+        <item>寂寞</item>
+        <item>緊張,焦慮</item>
+        <item>感到罪惡</item>
+        <item>壓力大,想逃避</item>
+        <item>對某事感到生氣</item>
+        <item>不知道自己該怎麼辦</item>
+    </string-array>
+    <string-array name="note_notgood">
+        <item>生病,噁心,疲倦</item>
+        <item>失眠</item>
+        <item>想保持清醒,活力</item>
+        <item>想要減重</item>
+        <item>頭痛或其他地方痛</item>
+    </string-array>
+    <string-array name="note_play">
+        <item>與老朋友共度美好時光</item>
+        <item>跟朋友們同樂且想助興</item>
+        <item>想要助性</item>
+    </string-array>
+    <string-array name="note_positive">
+        <item>高興</item>
+        <item>感到自在且放鬆</item>
+        <item>興奮</item>
+        <item>對目前生活感到滿意</item>
+        <item>想起以前發生的好事</item>
+    </string-array>
+    <string-array name="note_selftest">
+        <item>想要證明毒品對自己不是問題</item>
+        <item>試試偶爾吸毒但不會上癮</item>
+        <item>試試和曾吸毒的朋友出去但不吸毒</item>
+        <item>試試在大家都吸毒的場合但不吸毒</item>
+    </string-array>
+    <string-array name="note_social">
+        <item>朋友邀你吸K, 覺得不好拒絕</item>
+        <item>朋友一直建議到某些地方吸Ｋ</item>
+        <item>周遭的人在吸Ｋ，想融入他們</item>
+    </string-array>
+    <string-array name="note_temptation">
+        <item>在常用K或買K的地方</item>
+        <item>突然看到K</item>
+        <item>看到想用K的東西</item>
+        <item>聽到別人在談論用K經驗</item>
+        <item>喝酒且想用K</item>
+        <item>想到用K後的舒服感</item>
+        <item>沒來由地想用K</item>
+    </string-array>
+    <string-array name="note_time_slot">
+        <item>上午</item>
+        <item/>
+        <item/>
+    </string-array>
+    <string-array name="note_time_slot2">
+        <item>上午</item>
+        <item>下午</item>
+        <item/>
+    </string-array>
+    <string-array name="note_time_slot3">
+        <item>上午</item>
+        <item>下午</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="notification_comments">
+        <item>點選\"開始\"進行酒測是邁向成功的第一步</item>
+        <item>每日晚間出現的\"即時自我評量\"幫助您更了解自己</item>
+        <item>使用\"心情DIY\"可以幫助您紓解壓力</item>
+        <item>用聲音記錄下您的心情，讓自己更了解自己</item>
+        <item>使用情緒管理記錄心情，供自己日後思索</item>
+        <item>每天翻閱細讀圖畫，會有小發現喔</item>
+        <item>想要將您的戒酒歷程給朋友嗎？</item>
+        <item>完成酒測後點選諮詢建議能帶給您更多幫助</item>
+        <item>測試看看自己記不記得每周名言</item>
+    </string-array>
+    <string-array name="notification_subtitles">
+        <item>自我酒測</item>
+        <item>即時自我評量</item>
+        <item>心情DIY</item>
+        <item>心情紀錄</item>
+        <item>情緒管理</item>
+        <item>故事分享</item>
+        <item>臉書分享</item>
+        <item>諮詢建議</item>
+        <item>自我測試</item>
+    </string-array>
+    <string-array name="question_1">
+        <item>請問下列哪一項藥物不是毒品?</item>
+        <item>請問下列哪一項不是吸食毒品的副作用?</item>
+        <item>下列何者可能是使用毒品的特徵?</item>
+        <item>吸食愷他命可能造成以下哪種症狀?</item>
+        <item>請問下列哪一項法律問題是正確的?</item>
+        <item>請問下列哪一項是正確的?</item>
+        <item>下列何種行為有助於戒毒?</item>
+        <item>下列何種行為不能夠幫助戒毒?</item>
+        <item>以下哪個機構可以幫助戒毒?</item>
+        <item>以下哪種行為可以幫助你遠離毒品?</item>
+    </string-array>
+    <string-array name="question_answer_1">
+        <item>維他命B群</item>
+        <item>愷他命</item>
+        <item>安非他命</item>
+        <item>海洛因</item>
+        
+        <item>改善心肺功能</item>
+        <item>噁心、嘔吐</item>
+        <item>產生幻覺</item>
+        <item>智力衰退</item>
+        
+        <item>目光呆滯</item>
+        <item>目光炯炯有神</item>
+        <item>精神狀況良好</item>
+        <item>情緒穩定</item>
+        
+        <item>以上皆是</item>
+        <item>震顫</item>
+        <item>影響感覺、協調及判斷力</item>
+        <item>作惡夢</item>
+        
+        <item>製毒者與販毒者都是有罪的</item>
+        <item>攜帶毒品但沒有使用是無罪的</item>
+        <item>吸食毒品是合法的</item>
+        <item>台灣法律規定愷他命不算毒品</item>
+        
+        <item>製毒者刑責比吸毒者重</item>
+        <item>轉讓毒品是合法的</item>
+        <item>愷他命為第一級毒品</item>
+        <item>販賣毒品但未使用是無罪的</item>
+        
+        <item>以上皆是</item>
+        <item>規律的運動習慣</item>
+        <item>正常的作息時間</item>
+        <item>遠離是非場所</item>
+        
+        <item>覺得自己能夠控制毒癮</item>
+        <item>與家人、朋友出外旅行</item>
+        <item>建立正確情緒紓解方法</item>
+        <item>不靠藥物提神、減肥</item>
+        
+        <item>衛生署指定辦理藥癮戒治機構</item>
+        <item>夜店</item>
+        <item>網咖</item>
+        <item>酒店</item>
+        
+        <item>以上皆是</item>
+        <item>堅持立場，不碰毒品</item>
+        <item>離開毒品出現的場所</item>
+        <item>不因好奇而嘗試毒品</item>
+    </string-array>
+    <string-array name="question_inspire_question">
+        <item>為了家人和不一樣的自己，繼續加油，堅持下去</item>
+        <item>我們將成為我們所想要成為的人</item>
+        <item>打破所有的阻抗和障礙，繼續加油，堅持下去</item>
+        <item>一天過一天，我感覺我的狀況越來越好</item>
+        <item>好事多磨，戒Ｋ需要不斷的努力</item>
+        <item>戒Ｋ成功與失敗只有一線之隔，持續提醒自己不要喝酒</item>
+        <item>我能走出之前酒癮的困擾，走向美好的未來</item>
+        <item>只有突破現狀，才有意想不到的收穫</item>
+        <item>千萬不要低頭，勇於面對每一個挑戰</item>
+        <item>不要屈服於憂愁，要堅定地抗拒它，否則憂愁就會得寸進尺</item>
+        <item>世界上沒有比快樂更能使人美麗的化妝品</item>
+        <item>不要輕視自己，所有人都是自己生命中的英雄</item>
+        <item>正視疾病，勇於忍受的人，將變得更堅強、壯大</item>
+        <item>不論你在什麼時候開始，重要的是開始之後就不要停止</item>
+        <item>抱最大的希望，做最大的努力</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>覺得自己做的到和不做的到，其實只在一念之間</item>
+        <item>人只要不失去方向，就不會失去自己</item>
+        <item>人生重要的不是所站的位置，而是所朝的方向</item>
+        <item>當你能飛的時候就不要放棄飛；當你能夢的時候就不要放棄夢</item>
+        <item>自己要先看得起自己，別人才會看得起你</item>
+        <item>一個今天勝過兩個明天</item>
+        <item>肯承認錯誤則錯已改了一半</item>
+        <item>理想的路總是為有信心的人預備著</item>
+        <item>把你的臉迎向陽光，那就不會有陰影</item>
+        <item>不如意的時候不要儘往悲傷裡鑽</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+        <item>漫無目的的生活就像出海航行而沒有指南針，要做自己生命的舵手</item>
+        <item>人生操之在我</item>
+        <item>為自己而戰、為自己而奮鬥</item>
+        <item>用最多的夢想面對未來，用最少的浪費面對現在</item>
+        <item>放開懷抱面對轉變，但不要放走你的價值</item>
+        <item>進取的人會視每個危機為一個機會</item>
+        <item>人生最大的快樂不在於擁有什麼，而在於追求的過程</item>
+        <item>真正的快樂是內在的，只有在人類的心靈才能發現</item>
+        <item>生命在閃耀中現出絢爛，在平凡中現出真實</item>
+        <item>生命，那是自然會給人類去雕琢的寶石</item>
+        <item>你不應該拿自己和別人的最佳表現相比，應該和自己的最佳表現相比</item>
+        <item>愚者用肉體監視心靈，智者用心靈監視肉體</item>
+        <item>只要有信心，人永遠不會挫敗</item>
+        <item>人若軟弱就是自己最大的敵人，人若勇敢就是最好的朋友</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+    </string-array>
+    <string-array name="question_reading_question">
+        <item>為了家人和不一樣的自己，繼續加油，堅持下去</item>
+        <item>我們將成為我們所想要成為的人</item>
+        <item>打破所有的阻抗和障礙，繼續加油，堅持下去</item>
+        <item>一天過一天，我感覺我的狀況越來越好</item>
+        <item>好事多磨，戒酒需要不斷的努力</item>
+        <item>戒Ｋ成功與失敗只有一線之隔，持續提醒自己不要吸毒</item>
+        <item>不要只從少用Ｋ來衡量每天的成效，要看戒Ｋ長期的好處</item>
+        <item>做一件事需要具備能力，但要真正戒Ｋ要正面的動機及態度</item>
+        <item>毒不沾唇，疾病不傷神</item>
+        <item>我能走出之前毒癮的困擾，走向美好的未來</item>
+        <item>我們最愛的是我們自己</item>
+        <item>生命是張空白紙，重點是譜出自己的人生樂章</item>
+        <item>成功的戒Ｋ是態度的改變</item>
+        <item>只有突破現狀，才有意想不到的收穫</item>
+        <item>千萬不要低頭，勇於面對每一個挑戰</item>
+        <item>宇宙中祇有一芥之地你肯定可以改善，那就是你自己</item>
+        <item>不要屈服於憂愁，要堅定地抗拒它，否則憂愁就會得寸進尺</item>
+        <item>世界上沒有比快樂更能使人美麗的化妝品</item>
+        <item>誰能以深刻的內容充實每個瞬間，誰就是在無限地延長自己的生命</item>
+        <item>憂慮不會消除明天的憂傷，但會使你失去今天的力量</item>
+        <item>不要輕視自己，所有人都是自己生命中的英雄</item>
+        <item>正視疾病，勇於忍受的人，將變得更堅強、壯大</item>
+        <item>不論你在什麼時候開始，重要的是開始之後就不要停止</item>
+        <item>抱最大的希望，做最大的努力</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>覺得自己做的到和不做的到，其實只在一念之間</item>
+        <item>人只要不失去方向，就不會失去自己</item>
+        <item>人生重要的不是所站的位置，而是所朝的方向</item>
+        <item>當你能飛的時候就不要放棄飛；當你能夢的時候就不要放棄夢</item>
+        <item>自己要先看得起自己，別人才會看得起你</item>
+        <item>一個今天勝過兩個明天</item>
+        <item>肯承認錯誤則錯已改了一半</item>
+        <item>理想的路總是為有信心的人預備著</item>
+        <item>所有欺騙中，自欺是最為嚴重的</item>
+        <item>把你的臉迎向陽光，那就不會有陰影</item>
+        <item>不如意的時候不要儘往悲傷裡鑽</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+        <item>漫無目的的生活就像出海航行而沒有指南針，要做自己生命的舵手</item>
+        <item>人生操之在我</item>
+        <item>以誠實的態度去面對人生</item>
+        <item>為自己而戰、為自己而奮鬥</item>
+        <item>以身作則，身體力行</item>
+        <item>用最多的夢想面對未來，用最少的浪費面對現在</item>
+        <item>放開懷抱面對轉變，但不要放走你的價值</item>
+        <item>一句合宜的話，就如金蘋果跌在銀網子裡，何其美好</item>
+        <item>今天工作不努力，明天努力找工作</item>
+        <item>贈人以言，重如珠玉；傷人以言，甚於劍戟</item>
+        <item>不怕口袋空空，只怕腦袋空空</item>
+        <item>口才宜於用來應敵，卻不宜用來待友</item>
+        <item>知識的死敵不是無知，而是昧於無知</item>
+        <item>萬物靜觀皆自得，四時佳興與人同</item>
+        <item>生活是一種人人須學而無人能教的藝術</item>
+        <item>人的正確功能是生活 ，而不是生存！</item>
+        <item>書本就如降落傘，要打開才有用</item>
+        <item>可以與自己性格不同的人融洽地相處是成熟的表現</item>
+        <item>進取的人會視每個危機為一個機會</item>
+        <item>誠意=笑容+語調+言詞</item>
+        <item>人生最大的快樂不在於擁有什麼，而在於追求的過程</item>
+        <item>真正的快樂是內在的，只有在人類的心靈才能發現</item>
+        <item>生命在閃耀中現出絢爛，在平凡中現出真實</item>
+        <item>生命，那是自然會給人類去雕琢的寶石</item>
+        <item>人生的價值，應當看他貢獻什麼</item>
+        <item>最困難的職業就是怎樣為人</item>
+        <item>嘲弄往往是助燃的氧氣，促發了怒火的蔓延</item>
+        <item>你不應該拿自己和別人的最佳表現相比，應該和自己的最佳表現相比</item>
+        <item>生氣是拿別人做錯的事來懲罰自己</item>
+        <item>愚者用肉體監視心靈，智者用心靈監視肉體</item>
+        <item>只要有信心，人永遠不會挫敗</item>
+        <item>人若軟弱就是自己最大的敵人，人若勇敢就是最好的朋友</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>快樂要懂得分享，才能加倍的快樂</item>
+        <item>快樂不是因為擁有的多而是計較的少</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+    </string-array>
+    <string-array name="question_solutions">
+        <item>立即離開有酒的地方</item>
+        <item>我已經決定停止喝酒了</item>
+        <item>請健走10~30分鐘</item>
+        <item>請專注於呼吸15次</item>
+        <item>請休息或就診</item>
+        <item>結束</item>
+    </string-array>
+    <string-array name="quote_answer_0">
+        <item>敵人</item>
+        <item>親人</item>
+        <item>愛人</item>
+        <item>朋友</item>
+        <item>老師</item>
+        <item>可畏</item>
+        <item>可敬</item>
+        <item>可愛</item>
+        <item>可憐</item>
+        <item>友善</item>
+        <item>認輸</item>
+        <item>聽話</item>
+        <item>否認</item>
+        <item>反抗</item>
+        <item>猜疑</item>
+    </string-array>
+    <string-array name="quote_answer_1">
+        <item>戒酒</item>
+        <item>運動</item>
+        <item>回家</item>
+        <item>賭博</item>
+        <item>喝酒</item>
+        <item>愈來愈好</item>
+        <item>愈來愈差</item>
+        <item>不太舒服</item>
+        <item>內心感受</item>
+        <item>忐忑不安</item>
+        <item>這路</item>
+        <item>馬路</item>
+        <item>飛機</item>
+        <item>捷運</item>
+        <item>氣頭</item>
+    </string-array>
+    <string-array name="quote_answer_10">
+        <item>堅定</item>
+        <item>疑惑</item>
+        <item>衰弱</item>
+        <item>可怕</item>
+        <item>肥胖</item>
+        <item>強壯</item>
+        <item>聰明</item>
+        <item>可怕</item>
+        <item>煩人</item>
+        <item>小氣</item>
+        <item>身體訓練</item>
+        <item>智力測驗</item>
+        <item>晴天霹靂</item>
+        <item>打擊練習</item>
+        <item>消防演習</item>
+    </string-array>
+    <string-array name="quote_answer_11">
+        <item>生活</item>
+        <item>學習</item>
+        <item>文字</item>
+        <item>運動</item>
+        <item>天氣</item>
+        <item>鼓勵</item>
+        <item>貶抑</item>
+        <item>阿諛</item>
+        <item>諷刺</item>
+        <item>嘲笑</item>
+        <item>堅持下去</item>
+        <item>心情煩躁</item>
+        <item>天氣晴朗</item>
+        <item>緊張害怕</item>
+        <item>羞於見人</item>
+    </string-array>
+    <string-array name="quote_answer_2">
+        <item>船</item>
+        <item>車</item>
+        <item>馬</item>
+        <item>雲</item>
+        <item>狗</item>
+        <item>不能</item>
+        <item>可以</item>
+        <item>想要</item>
+        <item>迫切</item>
+        <item>你想</item>
+        <item>游向</item>
+        <item>背離</item>
+        <item>厭惡</item>
+        <item>飛向</item>
+        <item>面向</item>
+    </string-array>
+    <string-array name="quote_answer_3">
+        <item>清楚</item>
+        <item>反對</item>
+        <item>疑惑</item>
+        <item>厭煩</item>
+        <item>憤怒</item>
+        <item>失敗</item>
+        <item>成功</item>
+        <item>空想</item>
+        <item>幻想</item>
+        <item>過去</item>
+        <item>珍惜</item>
+        <item>厭煩</item>
+        <item>悔恨</item>
+        <item>看輕</item>
+        <item>不想</item>
+    </string-array>
+    <string-array name="quote_answer_4">
+        <item>自愛</item>
+        <item>自我</item>
+        <item>自己</item>
+        <item>自私</item>
+        <item>自卑</item>
+        <item>善待</item>
+        <item>虧待</item>
+        <item>挑戰</item>
+        <item>等待</item>
+        <item>破壞</item>
+        <item>戀愛</item>
+        <item>遊戲</item>
+        <item>夢境</item>
+        <item>棋局</item>
+        <item>鬧劇</item>
+    </string-array>
+    <string-array name="quote_answer_5">
+        <item>憤怒</item>
+        <item>滿意</item>
+        <item>高興</item>
+        <item>大喜</item>
+        <item>歡喜</item>
+        <item>恐懼</item>
+        <item>憧憬</item>
+        <item>期待</item>
+        <item>期望</item>
+        <item>規劃</item>
+        <item>無力</item>
+        <item>快樂</item>
+        <item>開心</item>
+        <item>期待</item>
+        <item>奇幻</item>
+    </string-array>
+    <string-array name="quote_answer_6">
+        <item>價值</item>
+        <item>我們</item>
+        <item>父母</item>
+        <item>家庭</item>
+        <item>手腳</item>
+        <item>怎樣的人</item>
+        <item>有了什麼</item>
+        <item>自暴自棄</item>
+        <item>自私自利</item>
+        <item>有錢有勢</item>
+        <item>有了什麼</item>
+        <item>怎樣的人</item>
+        <item>自私自利</item>
+        <item>自暴自棄</item>
+        <item>有錢有勢</item>
+    </string-array>
+    <string-array name="quote_answer_7">
+        <item>面對</item>
+        <item>逃避</item>
+        <item>躲開</item>
+        <item>抗拒</item>
+        <item>放棄</item>
+        <item>不足</item>
+        <item>天真</item>
+        <item>好奇</item>
+        <item>疑惑</item>
+        <item>不想</item>
+        <item>珍惜</item>
+        <item>放棄</item>
+        <item>後悔</item>
+        <item>厭惡</item>
+        <item>逃避</item>
+    </string-array>
+    <string-array name="quote_answer_8">
+        <item>運氣</item>
+        <item>食慾</item>
+        <item>財富</item>
+        <item>天氣</item>
+        <item>成績</item>
+        <item>順利</item>
+        <item>煩躁</item>
+        <item>緊湊</item>
+        <item>悠閒</item>
+        <item>混亂</item>
+        <item>認真努力</item>
+        <item>好逸惡勞</item>
+        <item>積少成多</item>
+        <item>風調雨順</item>
+        <item>守株待兔</item>
+    </string-array>
+    <string-array name="quote_answer_9">
+        <item>創造</item>
+        <item>抗拒</item>
+        <item>懷疑</item>
+        <item>幻想</item>
+        <item>厭煩</item>
+        <item>相信</item>
+        <item>懷疑</item>
+        <item>反對</item>
+        <item>悔恨</item>
+        <item>放縱</item>
+        <item>一步一步</item>
+        <item>極度不願</item>
+        <item>七零八落</item>
+        <item>七上八下</item>
+        <item>一五一十</item>
+    </string-array>
+    <string-array name="quote_learning">
+        <item>面對問題及相信自我！</item>
+        <item>確定決心及抱持希望！</item>
+        <item>下定決心並主動出擊！</item>
+        <item>自我接納及了解！</item>
+        <item>自愛並善待自身！</item>
+        <item>保持平靜並活在當下！</item>
+        <item>對自己負責且致力改變！</item>
+        <item>勇於面對、接納自我並改變！</item>
+        <item>感受自身的進步！</item>
+        <item>持續努力並了解自身！</item>
+        <item>努力不懈並堅定決心！</item>
+        <item>感謝他人並回饋大眾！</item>
+    </string-array>
+    <string-array name="quote_learning_extend">
+        <item>隨著不斷地喝酒，酒精所造成的影響也就越嚴重。</item>
+        <item>酒精所造成的影響：自制力降低、口齒不清、行動遲緩等</item>
+		<item>酒精所造成的影響：思緒混亂、記憶衰退、注意力渙散等</item>
+		<item>酒精所造成的影響：陷入昏迷、呼吸困難、死亡等</item>
+		<item>酒精依賴會渴求飲酒、無法控制飲酒量、對酒精的依賴性及耐受性增加</item>
+		<item>喝酒的風險：車禍等事故、危險、暴力行為、自殺或殺害他人</item>
+		<item>長時間飲酒過量的影響：酒精依賴、健康問題、癌症的風險</item>
+		<item>有酒癮者長時間在喝酒，因此無力正常生活也無法屢行責任義務</item>
+		<item>有酒癮者可能因喝酒而無法完成生活中責任義務。</item>
+		<item>濫用酒精可能使自己陷於危險，或有法律上或社交上的問題</item>
+		<item>肝硬化為第12高的致死原因</item>
+		<item>在肝硬化死亡案例中，48.2%與酒精相關</item>
+		<item>酒精相關的肝臟疾病為肝臟移植的主因，佔近3分之1的病例</item>
+		<item>15至49歲的族群中, 酒精使用為全球造成夭折及殘疾最主要的因素</item>
+		<item>2012中的研究顯示，>10%的孩童跟有酒精問題的父母生活在一起</item>
+    </string-array>
+    <string-array name="quote_message">
+        <item>酒精是一位可畏的敵人，但您相信不會被\n敵人擺布，也決不低頭認輸。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在這\n路上。珍惜每一天，會感覺愈來愈好。</item>
+        <item>您發現不能空等您的船來到，而是您得自\n己游向它。</item>
+        <item>您清楚您可以從過去的失敗中，要如何讓\n自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您開始懂得好好善待自己，並且”自愛”\n是一生最重要的一場戀愛。</item>
+        <item>對過去憤怒，或對未來恐懼，只是讓您的\n生活變得更無力，更容易錯過現在。</item>
+        <item>我們的價值是由我們是怎樣的人來決定，\n而不是有了什麼來決定。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自\n己的不足，但也珍惜自己的任何改變。</item>
+        <item>您發現當您越認真努力戒酒，生活變得更\n順利，運氣也會跟著變好。</item>
+        <item>您相信自己一步一步在走您自己所創造的\n不一樣中。</item>
+        <item>就像一次一次的身體訓練，每一次都讓我\n們變得更強壯或更堅定。</item>
+        <item>您發現別人的鼓勵讓我們更堅持下去，但\n若可以鼓勵他人，更能讓生活更有意義。</item>
+    </string-array>
+    <string-array name="quote_question_0">
+        <item>酒精是一位可畏的○○，但您相信不會被敵人擺布，也決不低頭認輸。</item>
+        <item>酒精是一位○○的敵人，但您相信不會被敵人擺布，也決不低頭認輸。</item>
+        <item>酒精是一位可畏的敵人，但您相信不會被敵人擺布，也決不低頭○○。</item>
+    </string-array>
+    <string-array name="quote_question_1">
+        <item>想踏上○○這條路已經很久了，您正在這路上。珍惜每一天，會感覺愈來愈好。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在這路上。珍惜每一天，會感覺○○○○。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在○○上。珍惜每一天，會感覺愈來愈好。</item>
+    </string-array>
+    <string-array name="quote_question_10">
+        <item>就像一次一次的身體訓練，每一次都讓我們變得更強壯或更○○。</item>
+        <item>就像一次一次的身體訓練，每一次都讓我們變得更○○或更堅定。</item>
+        <item>就像一次一次的○○○○，每一次都讓我們變得更強壯或更堅定。</item>
+    </string-array>
+    <string-array name="quote_question_11">
+        <item>您發現別人的鼓勵讓我們更堅持下去，但若可以鼓勵他人，更能讓○○更有意義。</item>
+        <item>您發現別人的○○讓我們更堅持下去，但若可以鼓勵他人，更能讓生活更有意義。</item>
+        <item>您發現別人的鼓勵讓我們更○○○○，但若可以鼓勵他人，更能讓生活更有意義。</item>
+    </string-array>
+    <string-array name="quote_question_2">
+        <item>您發現不能空等您的○來到，而是您得自己游向它。</item>
+        <item>您發現○○空等您的船來到，而是您得自己游向它。</item>
+        <item>您發現不能空等您的船來到，而是您得自己○○它。</item>
+    </string-array>
+    <string-array name="quote_question_3">
+        <item>您○○您可以從過去的失敗中，要如何讓自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您清楚您可以從過去的○○中，要如何讓自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您清楚您可以從過去的失敗中，要如何讓自己現在更好，更○○戒酒的日子。</item>
+    </string-array>
+    <string-array name="quote_question_4">
+        <item>您開始懂得好好善待自己，並且”○○”是一生最重要的一場戀愛。</item>
+        <item>您開始懂得好好○○自己，並且”自愛”是一生最重要的一場戀愛。</item>
+        <item>您開始懂得好好善待自己，並且”自愛”是一生最重要的一場○○。</item>
+    </string-array>
+    <string-array name="quote_question_5">
+        <item>對過去○○，或對未來恐懼，只是讓您的生活變得更無力，更容易錯過現在。</item>
+        <item>對過去憤怒，或對未來○○，只是讓您的生活變得更無力，更容易錯過現在。</item>
+        <item>對過去憤怒，或對未來恐懼，只是讓您的生活變得更○○，更容易錯過現在。</item>
+    </string-array>
+    <string-array name="quote_question_6">
+        <item>我們的○○是由我們是怎樣的人來決定，而不是有了什麼來決定。</item>
+        <item>我們的價值是由我們是○○○○來決定，而不是有了什麼來決定。</item>
+        <item>我們的價值是由我們是怎樣的人來決定，而不是○○○○來決定。</item>
+    </string-array>
+    <string-array name="quote_question_7">
+        <item>你正勇於○○戒酒在生活的挑戰，接受自己的不足，但也珍惜自己的任何改變。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自己的○○，但也珍惜自己的任何改變。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自己的不足，但也○○自己的任何改變。</item>
+    </string-array>
+    <string-array name="quote_question_8">
+        <item>您發現當您越認真努力戒酒，生活變得更順利，○○也會跟著變好。</item>
+        <item>您發現當您越認真努力戒酒，生活變得更○○，運氣也會跟著變好。</item>
+        <item>您發現當您越○○○○戒酒，生活變得更順利，運氣也會跟著變好。</item>
+    </string-array>
+    <string-array name="quote_question_9">
+        <item>您相信自己一步一步在走您自己所○○的不一樣中。</item>
+        <item>您○○自己一步一步在走您自己所創造的不一樣中。</item>
+        <item>您相信自己○○○○在走您自己所創造的不一樣中。</item>
+    </string-array>
+    <string-array name="radar_0_0">
+        <item>每天進行口水檢測，是成功的第一步</item>
+        <item>幸福，從拒絕愷他命開始</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_0_1">
+        <item>進行口水檢測，開始記錄停止使用愷他命</item>
+        <item>持續通過口水檢測，證明自己有能力拒絕愷他命</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_1_0">
+        <item>可點擊\'！\'按鈕學習應對技巧</item>
+        <item>開始培養應對技巧，來處理生活中會遇到的誘因！</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_1_1">
+        <item>諮詢建議中，使用心情DIY幫助自己</item>
+        <item>心情不佳時，可隨時使用心情DIY舒緩心情</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_0">
+        <item>點擊\'自我測驗\'，測試一下自己</item>
+        <item>常常回答問題，來確定自己是否了解愷他命的危害</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_1">
+        <item>當打開活動記錄頁面，別忘了按下閃爍的星星回答問題</item>
+        <item>每天都會隨機出現問題，讓自己能透過回答問題了解自己</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_2">
+        <item>每天晚上會跳出\'即時自我評量\'喔</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_0">
+        <item>別忘了每天記下發生的事喔！</item>
+        <item>可隨時留下心情供自己日後思索！</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_1">
+        <item>點選圖畫上方黃色書籤，測試一下吧</item>
+        <item>若不知道測試答案，回到圖畫再讀一次</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_2">
+        <item>每周可向朋友分享自己的歷程</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="setting_time_gap">
+        <item>提醒時間間隔設為30分鐘</item>
+        <item>提醒時間間隔設為60分鐘</item>
+        <item>提醒時間間隔設為120分鐘</item>
+        <item>關閉提醒功能</item>
+    </string-array>
+    <string-array name="test_guide_msg">
+        <item>有志不在年高\n無志空長百歲</item>
+        <item>積極就是比別人多走一步</item>
+        <item>凡事不可\n真的變成不可能</item>
+        <item>放開懷抱面對轉變\n但不要放走你的價值</item>
+        <item>要社會不淘汰你\n你首先要不放棄自己</item>
+        <item>成功非僥幸\n失敗有原因</item>
+        <item>人逢順境不逞強\n身處逆境不示弱</item>
+        <item>精神的滿足比肚子\n的滿足來得長久</item>
+        <item>人生就像踏單車\n不斷向前才能取得平衡</item>
+        <item>成功人講勤力\n失敗者才講運氣</item>
+        <item>你自己就是你自己\n給自己一個認同就可以</item>
+        <item>生命在閃耀中現出絢爛\n在平凡中現出真實</item>
+        <item>憂慮不會消除明天的憂傷\n但會使你失去今天的力量</item>
+        <item>有好的觀念才能\n發揮生命的功能</item>
+        <item>正視疾病、勇於忍受的人\n將變得更堅強、壯大</item>
+        <item>每天告訴自己一次\n『我真的很不錯』</item>
+        <item>人若軟弱就是\n自己最大的敵人</item>
+        <item>人若勇敢就是\n自己最好的朋友</item>
+        <item>有理想在的地方\n地獄就是天堂</item>
+    </string-array>
+    <string-array name="trigger_list">
+        <item>負面情緒</item>
+        <item>生理因素</item>
+        <item>正面情緒</item>
+        <item>測試自己控制力</item>
+        <item>衝動、誘惑或轉移注意</item>
+        <item>與他人相處上遇到困難</item>
+        <item>維持社交</item>
+        <item>與他人或動物相處</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="tutorial_step">
+        <item>按下開關，使指示燈亮起</item>
+        <item>進入測試頁面按下開始按鈕</item>
+        <item>對準吹氣口持續吹氣五秒鐘</item>
+    </string-array>
+    <color name="background_color">#888888</color>
+    <color name="black">#FF000000</color>
+    <color name="black_gray">#FF585858</color>
+    <color name="blue">#FF7dcdff</color>
+    <color name="chart_axis">#FF5f5f5f</color>
+    <color name="chart_text">#FFaaaaaa</color>
+    <color name="chart_x_axis">#FFc9c9ca</color>
+    <color name="chart_y_axis">#FF434343</color>
+    <color name="count_down">#FF2e2e2e</color>
+    <color name="dark_gray">#FF898989</color>
+    <color name="date_before_gray">#FFdcdada</color>
+    <color name="gray">#FF777777</color>
+    <color name="green">#FF2dc7b3</color>
+    <color name="linechart_bgline_color">#F7F7F7</color>
+    <color name="linechart_date_color">#7DCDFF</color>
+    <color name="linechart_score_color">#9E9E9F</color>
+    <color name="list_view_gray">#FFFFFFFF</color>
+    <color name="lite_gray">#FF7c7d7c</color>
+    <color name="lite_orange">#FFF19700</color>
+    <color name="near_white">#99dedede</color>
+    <color name="orange">#FFc98123</color>
+    <color name="page_gray">#FF848484</color>
+    <color name="path_normal">#EDEDEE</color>
+    <color name="path_other_color">#6BC6BA</color>
+    <color name="path_self_color">#FF9578</color>
+    <color name="red">#FFf2a6a3</color>
+    <color name="setting_edit_bg_color">#FF494949</color>
+    <color name="setting_title_bg_color">#FF434343</color>
+    <color name="shadow">#99000000</color>
+    <color name="show_icon_gray">#FFDCDCDC</color>
+    <color name="storytelling_bg">#FF3f3d3d</color>
+    <color name="test_bg">#FF100e0e</color>
+    <color name="test_message">#FF989898</color>
+    <color name="test_start_button">#FF454545</color>
+    <color name="text_bg_gray">#FFf7f7f7</color>
+    <color name="text_color">#B3B3B4</color>
+    <color name="text_gray">#FF727171</color>
+    <color name="text_gray2">#FFb3b3b4</color>
+    <color name="text_gray3">#FF9E9E9F</color>
+    <color name="toast_point">#FF2dc7b3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_shadow">#99FFFFFF</color>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bar_height">61dp</dimen>
+    <dimen name="btn_lbl_dp">22dp</dimen>
+    <dimen name="center_icon_dp">16dp</dimen>
+    <dimen name="center_word_dp">22dp</dimen>
+    <dimen name="chart_bar_margin">26dp</dimen>
+    <dimen name="chart_bar_scroll_size">14.2dp</dimen>
+    <dimen name="chart_bar_size">10.6dp</dimen>
+    <dimen name="chart_button_start_left">30dp</dimen>
+    <dimen name="chart_button_start_top">55dp</dimen>
+    <dimen name="chart_gap">15dp</dimen>
+    <dimen name="chart_gap_r">70dp</dimen>
+    <dimen name="chart_height">167dp</dimen>
+    <dimen name="chart_label_base">13dp</dimen>
+    <dimen name="chart_label_gap">3dp</dimen>
+    <dimen name="chart_label_top">6dp</dimen>
+    <dimen name="chart_label_top2">16dp</dimen>
+    <dimen name="chart_line_paint">2.3dp</dimen>
+    <dimen name="chart_title_0">23dp</dimen>
+    <dimen name="chart_title_0_r">60dp</dimen>
+    <dimen name="chart_title_1">125dp</dimen>
+    <dimen name="chart_title_1_r">250dp</dimen>
+    <dimen name="chart_title_2">230dp</dimen>
+    <dimen name="chart_title_2_r">440dp</dimen>
+    <dimen name="chart_title_top">30dp</dimen>
+    <dimen name="chart_top_panel_height">54dp</dimen>
+    <dimen name="cur_X_offset">4dp</dimen>
+    <dimen name="date_Y_offset">40dp</dimen>
+    <dimen name="day_block_margin_size">4dp</dimen>
+    <dimen name="day_circle_size">42dp</dimen>
+    <dimen name="dot_X_offset">4dp</dimen>
+    <dimen name="dot_Y_offset">3.33dp</dimen>
+    <dimen name="dot_scale">8.33dp</dimen>
+    <dimen name="drawer_normal_height">280dp</dimen>
+    <dimen name="drawer_with_filter_height">330dp</dimen>
+    <dimen name="fb_gap">20dp</dimen>
+    <dimen name="filter_button_height">30dp</dimen>
+    <dimen name="filter_button_width">30dp</dimen>
+    <dimen name="filter_landscape_height">45dp</dimen>
+    <dimen name="filter_normal_height">58dp</dimen>
+    <dimen name="impact_text_margin">30dp</dimen>
+    <dimen name="large_text_size">16sp</dimen>
+    <dimen name="large_title_size">28sp</dimen>
+    <dimen name="legend_height">11.33dp</dimen>
+    <dimen name="legend_width">154.67dp</dimen>
+    <dimen name="month_line_gap">4.6dp</dimen>
+    <dimen name="month_line_width">7.3dp</dimen>
+    <dimen name="normal_margin">29.3dp</dimen>
+    <dimen name="normal_text_size">14sp</dimen>
+    <dimen name="normal_title_size">21.3sp</dimen>
+    <dimen name="note_bottom_bar_height">70dp</dimen>
+    <dimen name="note_margin">20dp</dimen>
+    <dimen name="offsetX">20dp</dimen>
+    <dimen name="offsetY">30dp</dimen>
+    <dimen name="radar_chart_size">154.7dp</dimen>
+    <dimen name="rec_X_offset">8.33dp</dimen>
+    <dimen name="rec_height">9.33dp</dimen>
+    <dimen name="rec_width">20dp</dimen>
+    <dimen name="small_text_size">10.7sp</dimen>
+    <dimen name="small_title_size">18sp</dimen>
+    <dimen name="sn_text_size">12sp</dimen>
+    <dimen name="sz30">30dp</dimen>
+    <dimen name="timer_sz">50dp</dimen>
+    <dimen name="title_bar_height">72dp</dimen>
+    <dimen name="top_subtitle">50dp</dimen>
+    <dimen name="top_title">80dp</dimen>
+    <dimen name="unit_scale">16.67dp</dimen>
+    <dimen name="verysmall_text_size">9sp</dimen>
+    <dimen name="week_circle_height">32dp</dimen>
+    <dimen name="week_circle_width">34.6dp</dimen>
+    <dimen name="window_width">320dp</dimen>
+    <dimen name="xlarge_text_size">42.7sp</dimen>
+    <dimen name="xlarge_title_size">56.7sp</dimen>
+    <string name="Iknow">我知道了</string>
+    <string name="TAG_CAL_CELL_CHANGE">tag_cal_cell_change</string>
+    <string name="TAG_CAL_CELL_DAY">tag_cal_cell_day</string>
+    <string name="TAG_CAL_CELL_MONTH">tag_cal_cell_month</string>
+    <string name="TAG_CAL_CELL_NOTEADD">tag_cal_cell_noteadd</string>
+    <string name="TAG_CAL_CELL_PAGE_MONTH">tag_cal_cell_page_month</string>
+    <string name="TAG_CAL_CELL_TS">tag_cal_cell_ts</string>
+    <string name="TAG_CAL_CELL_YEAR">tag_cal_cell_year</string>
+    <string name="TAG_LIST_DAY">tag_list_day</string>
+    <string name="TAG_LIST_MONTH">tag_list_month</string>
+    <string name="TAG_LIST_YEAR">tag_list_year</string>
+    <string name="TAG_PAGE_MONTH">tag_page_month</string>
+    <string name="TAG_PAGE_YEAR">tag_page_year</string>
+    <string name="about_help">詳細資料:</string>
+    <string name="about_setting">設定：</string>
+    <string name="about_time_gap">提醒時間間隔為：</string>
+    <string name="about_title">關於</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_note_identity">改變從瞭解自己開始</string>
+    <string name="add_note_no_thinking">之後記得填寫想法喔</string>
+    <string name="add_note_reflection">新的想法，新的生活</string>
+    <string name="add_note_with_thinking">已記錄情境</string>
+    <string name="additional_questionnaire_help">煩請您填寫您現在的心情量尺\n及渴求程度，謝謝！</string>
+    <string name="additional_questionnaire_title">即時自我評量</string>
+    <string name="additional_questionnaire_toast">謝謝填寫</string>
+    <string name="after_questionnaire">繼續加油！</string>
+    <string name="after_test_fail">好好加油！</string>
+    <string name="after_test_pass">做得很好！</string>
+    <string name="analysis_counter">已獲得點數</string>
+    <string name="analysis_counter_counter">點</string>
+    <string name="analysis_counter_coupon">張禮卷</string>
+    <string name="analysis_counter_help">您已獲得：</string>
+    <string name="analysis_rank">您的排名</string>
+    <string name="analysis_rank_month_help">整體排名：</string>
+    <string name="analysis_rank_week_help">本周排名：</string>
+    <string name="analysis_saving">已節省金錢</string>
+    <string name="analysis_saving_help">您已節省：</string>
+    <string name="app_name">恢復日記2</string>
+    <string name="audio_box_playing">播放中</string>
+    <string name="audio_box_preparing">準備中</string>
+    <string name="audio_box_recording">錄音中</string>
+    <string name="audio_box_toast_play_end">結束播放</string>
+    <string name="audio_box_toast_record_end">完成錄音</string>
+    <string name="audio_box_toast_timeup">一分鐘到了</string>
+    <string name="bonus">特殊獎勵</string>
+    <string name="brac">酒精濃度</string>
+    <string name="breath_check_help">我會完成閉眼專注觀察呼吸</string>
+    <string name="breath_help">閉眼專注觀察呼吸30秒</string>
+    <string name="call_check_help">確定要撥給 </string>
+    <string name="call_check_help_emotion_hot_line">確定撥打心情專線？</string>
+    <string name="call_to">要聯絡誰？</string>
+    <string name="cancel">取消</string>
+    <string name="check_do_not_keep_activities">您已開啟“不要保留活動”且未啟用“位置資訊服務”。\n建議您至“設定->開發人員選項”下取消勾選“不要保留活動”。\n本次測試將不會回報您的位置</string>
+    <string name="check_end">確定結束？</string>
+    <string name="check_result">看測試結果?</string>
+    <string name="connect_for_social_help">尋求社區心理諮商</string>
+    <string name="connect_null">沒有聯絡對象</string>
+    <string name="connect_to_emotion_hot_line">聯絡心情專線</string>
+    <string name="connect_to_family">跟親友聊天</string>
+    <string name="coping_away">當遇到誘惑時</string>
+    <string name="coping_away_dialog">立即遠離現場避免繼續受到誘惑</string>
+    <string name="coping_breath">閉眼專注觀察呼吸</string>
+    <string name="coping_default_recreation0">聽音樂</string>
+    <string name="coping_default_recreation1">慢跑</string>
+    <string name="coping_default_recreation2">打球</string>
+    <string name="coping_default_sponsor">聯絡人</string>
+    <string name="coping_encouragement">勵志短句</string>
+    <string name="coping_encouragement_dialog">你已經在戒毒的路上了，繼續加油</string>
+    <string name="coping_harm">吸毒造成的危害</string>
+    <string name="coping_harm_dialog">研究顯示濫用愷他命，會罹患慢性間質性膀胱炎</string>
+    <string name="coping_information">資訊站</string>
+    <string name="coping_interperson">生活應對技巧</string>
+    <string name="coping_lapse">又開始吸毒了怎麼辦?</string>
+    <string name="coping_lapse_dialog">現在放棄就前功盡棄了</string>
+    <string name="coping_lifestyle">生活習慣建議</string>
+    <string name="coping_lifestyle_dialog">放鬆身心，停整作息</string>
+    <string name="coping_meditation">冥想</string>
+    <string name="coping_mms">傳簡訊</string>
+    <string name="coping_muscle">專心健走10~30分鐘</string>
+    <string name="coping_music">聆聽舒緩音樂</string>
+    <string name="coping_page">應對技巧</string>
+    <string name="coping_recreation">休閒活動</string>
+    <string name="coping_recreation_dialog">選擇運動記得注意自己的狀況</string>
+    <string name="coping_relaxed">放鬆技巧</string>
+    <string name="coping_repeat">增強決心</string>
+    <string name="coping_repeat_dialog">在心中不斷默念『我自己現在正在戒毒』</string>
+    <string name="coping_skill">建議</string>
+    <string name="coping_sponsor">與家人或朋友聯絡</string>
+    <string name="coping_stretch">伸展運動</string>
+    <string name="coping_telephone">撥電話</string>
+    <string name="coping_told">讓朋友知道你已戒毒</string>
+    <string name="coping_told_dialog">立刻告訴朋友，讓他知道你已戒毒</string>
+    <string name="countdown">檢測倒數中</string>
+    <string name="craving">渴求指數</string>
+    <string name="craving_short">渴求</string>
+    <string name="current_version">目前版本：</string>
+    <string name="day">日</string>
+    <string name="default_forbidden">您不是本實驗參加者，因此無法使用檢測功能</string>
+    <string name="default_goal_good"> 機車</string>
+    <string name="default_recreation_1">聽音樂</string>
+    <string name="default_recreation_2">慢跑</string>
+    <string name="default_recreation_3">打球</string>
+    <string name="device_reject_not_digit">請確認輸入字元皆為數字</string>
+    <string name="device_reject_range_error">編號範圍(1~999)</string>
+    <string name="dollor_sign">$</string>
+    <string name="done">完成</string>
+    <string name="dot">、</string>
+    <string name="dubug">debug</string>
+    <string name="edit">編輯</string>
+    <string name="em_main_help">情緒管理：</string>
+    <string name="email"><u>ubicomplab.ntu@gmail.com</u></string>
+    <string name="email_fail">手機端未安裝信件寄送程式</string>
+    <string name="email_message">請問要如何寄送信件</string>
+    <string name="email_reject">非本實驗受試者煩請不要寄送信件</string>
+    <string name="email_subject">[戒酒小幫手]問題回報</string>
+    <string name="emotion">心情量尺</string>
+    <string name="emotionDIY_end_toast">學習應對技巧</string>
+    <string name="emotionDIY_help">照顧情緒，我可以：</string>
+    <string name="emotionDIY_help_case0">閉眼專注聆聽舒緩音樂</string>
+    <string name="emotionDIY_help_case1">嘗試閉眼專注觀察呼吸？\n您可以聽從指示引導或直接去做</string>
+    <string name="emotionDIY_help_case2">專心健走 10 ~ 30 分鐘？\n您可以聽從指示引導或直接去做</string>
+    <string name="emotionDIY_help_case2_2">伸展運動\n您可以聽從指示引導或直接去做</string>
+    <string name="emotionDIY_help_case3">從事休閒活動？\n您可以選擇以下內容</string>
+    <string name="emotionDIY_help_case3_2">未設定休閒活動，\n請按返回鍵</string>
+    <string name="emotionDIY_help_case4">您將要去做</string>
+    <string name="emotionDIY_help_guide">播放指示</string>
+    <string name="emotionDIY_title">心情DIY</string>
+    <string name="emotionDIY_toast">確定放棄填答心情DIY？</string>
+    <string name="emotion_box_pause">暫停中</string>
+    <string name="emotion_box_playing">播放中</string>
+    <string name="emotion_box_replay">重新撥放？</string>
+    <string name="emotion_connect_null">沒有聯絡對象\n請按返回鍵</string>
+    <string name="emotion_end_message">完成後能得到點數，請繼續加油！\n(早午晚各能得到一點)</string>
+    <string name="emotion_manage_check_toast">尚未填寫原因</string>
+    <string name="emotion_manage_end_toast">做好情緒管理</string>
+    <string name="emotion_manage_help1">您當時的情緒是：</string>
+    <string name="emotion_manage_help2">這個感覺跟什麼有關：</string>
+    <string name="emotion_manage_help3">請寫下影響您的</string>
+    <string name="emotion_manage_help4">這是影響您停酒的因素\n但您仍可堅持停酒</string>
+    <string name="emotion_manage_history_help">我的紀錄：</string>
+    <string name="emotion_manage_history_title">情緒管理紀錄</string>
+    <string name="emotion_manage_input">點此開始輸入</string>
+    <string name="emotion_manage_title0">填寫</string>
+    <string name="emotion_manage_title1">的情緒管理</string>
+    <string name="emotion_manage_toast">確定放棄填寫情緒管理？</string>
+    <string name="emotion_short">心情</string>
+    <string name="end">結束</string>
+    <string name="end_record">完成紀錄</string>
+    <string name="facebook_no_network">分享至臉書需先啟用網路功能</string>
+    <string name="feedback_help">請錄下重測原因：</string>
+    <string name="feedback_record_again">重錄</string>
+    <string name="feedback_record_help">請點選右方錄音鍵留言</string>
+    <string name="feedback_record_toast">謝謝您告知原因？</string>
+    <string name="feedback_skip">略過</string>
+    <string name="follow_the_guide">請依照以下指示：</string>
+    <string name="follow_the_guide_music">閉眼專注聆聽舒緩音樂</string>
+    <string name="friday">五</string>
+    <string name="gcm_title">通知訊息</string>
+    <string name="get_self_help_counter">+1點</string>
+    <string name="go_home">回家休息</string>
+    <string name="go_result">看測試結果</string>
+    <string name="goto_">前往</string>
+    <string name="happ_design">happdesign.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_page">相關設定與資訊</string>
+    <string name="high">高</string>
+    <string name="hint_note_detail">簡述記事內容</string>
+    <string name="homepage">http://mll.csie.ntu.edu.tw/soberdiary/</string>
+    <string name="impact_1">很小</string>
+    <string name="impact_2">有點小</string>
+    <string name="impact_3">中等</string>
+    <string name="impact_4">有點大</string>
+    <string name="impact_5">很大</string>
+    <string name="inspire_help">默念勵志短句30秒</string>
+    <string name="intel_ntu">Intel-臺大創新研究中心</string>
+    <string name="item_select">請選擇項目</string>
+    <string name="know">了解</string>
+    <string name="knowledge">戒K小常識</string>
+    <string name="last">上一則</string>
+    <string name="loading">載入中</string>
+    <string name="lock_about">完成訊息：</string>
+    <string name="lock_message">恭喜您已完成戒酒小幫手的療程，感謝您於療程期間的協助，希望您之後繼續保持並遠離酒精！\n\n因為研究需求，將暫停使用戒酒小幫手三個月。 這段期間，請定期回診進行追蹤觀察，再次感謝你對本研究的幫忙。\n\n您現在可以選擇移除掉戒酒小幫手，或是暫時將戒酒小幫手保留在手機內。三個月後，若是有需要再次啟用戒酒小幫手，請點選最下面的"關於"以聯絡戒酒小幫手團隊。謝謝！\n\n戒酒小幫手團隊　敬上</string>
+    <string name="low">低</string>
+    <string name="manual_title">使用說明</string>
+    <string name="minute">分鐘</string>
+    <string name="monday">一</string>
+    <string name="month">月</string>
+    <string name="month_test">每月統計測試</string>
+    <string name="morning">早上</string>
+    <string name="morning_short">早</string>
+    <string name="morning_time">0–12</string>
+    <string name="msg_box_help1">您的心情量尺：</string>
+    <string name="msg_box_help2">您的渴求程度：</string>
+    <string name="msg_box_help3">是否回報現在位置？</string>
+    <string name="msg_box_title">自我了解</string>
+    <string name="msg_box_toast_cancel">確定放棄填寫？</string>
+    <string name="msg_box_toast_send">確定完成自我了解？</string>
+    <string name="negative_consequence">負面後果</string>
+    <string name="next">下一步</string>
+    <string name="next_one">下一則</string>
+    <string name="next_step">下一步</string>
+    <string name="night">晚上</string>
+    <string name="night_short">晚</string>
+    <string name="night_time">20–24</string>
+    <string name="no">否</string>
+    <string name="noon">下午</string>
+    <string name="noon_short">午</string>
+    <string name="noon_time">12–20</string>
+    <string name="note_check">請填寫完成再送出</string>
+    <string name="note_conflict">與他人相處上遇到困難</string>
+    <string name="note_done">做得很好!</string>
+    <string name="note_negative">負面情緒</string>
+    <string name="note_notgood">生理因素</string>
+    <string name="note_play">與他人或動物相處</string>
+    <string name="note_positive">正面情緒</string>
+    <string name="note_selftest">測試自己控制力</string>
+    <string name="note_social">維持社交</string>
+    <string name="note_temptation">衝動、誘惑或轉移注意</string>
+    <string name="notification_msg_1">該檢測了！</string>
+    <string name="notification_msg_2">該填想法囉！</string>
+    <string name="notification_title">小提醒</string>
+    <string name="ntu">國立台灣大學</string>
+    <string name="ok">確定</string>
+    <string name="open_gps">請將位置資訊服務相關功能開啟</string>
+    <string name="phone">聯絡開發團隊：</string>
+    <string name="phone_check">確定要聯絡開發團隊？</string>
+    <string name="phone_number"><u>(02)3366-4926</u></string>
+    <string name="positive_goal">正向目標</string>
+    <string name="pre_step">上一步</string>
+    <string name="question_Q">Q.</string>
+    <string name="question_blank">○</string>
+    <string name="question_correct">答對了!</string>
+    <string name="question_sign">？</string>
+    <string name="question_title">延伸學習</string>
+    <string name="question_type">請問左圖是哪一種事件類型?</string>
+    <string name="question_type0_help">為了家人和不一樣的自己，請繼續加油，堅持下去</string>
+    <string name="question_type1_help">重新整理浮動的心，堅持持續戒酒的決心，建議您可以：</string>
+    <string name="question_type2_help">您似乎開始喝酒了，建議您可以：</string>
+    <string name="question_type3_help">您似乎喝了不少酒，建議您可以：</string>
+    <string name="question_wrong">答錯了,再試試看</string>
+    <string name="quote_blank">○</string>
+    <string name="quote_next_message">請按此看延伸學習‧‧‧</string>
+    <string name="quote_title">延伸學習</string>
+    <string name="radar_label0">自我\n檢測</string>
+    <string name="radar_label0_0">是否常做檢測</string>
+    <string name="radar_label0_1">是否常通過檢測</string>
+    <string name="radar_label0_full">自我檢測功能　完成度</string>
+    <string name="radar_label1">應對\n技巧</string>
+    <string name="radar_label1_0">應對技巧</string>
+    <string name="radar_label1_full">應對技巧功能　完成度</string>
+    <string name="radar_label2">問答\n參與</string>
+    <string name="radar_label2_0">一般問答</string>
+    <string name="radar_label2_1">隨機式問答</string>
+    <string name="radar_label2_full">問答參與功能　完成度</string>
+    <string name="radar_label3">事件\n紀錄</string>
+    <string name="radar_label3_0">事件紀錄</string>
+    <string name="radar_label3_1">想法紀錄</string>
+    <string name="radar_label3_2">反省自己</string>
+    <string name="radar_label3_3">瀏覽事件</string>
+    <string name="radar_label3_full">事件紀錄功能　完成度</string>
+    <string name="radar_title">表現分析</string>
+    <string name="read_sentence">閱讀心情小語轉換心境</string>
+    <string name="record_title">自我管理紀錄</string>
+    <string name="recoverying">回復中</string>
+    <string name="result">檢測結果</string>
+    <string name="result_fail">測試未成功，記錄無上傳。\n\n（請保持檢測器開啟，並置於與手機鄰近的地方。）\n\n立即回到測試頁面？</string>
+    <string name="rickie_wu">Rickie Wu</string>
+    <string name="saliva_page">檢視試紙匣狀態</string>
+    <string name="saturday">六</string>
+    <string name="score">分</string>
+    <string name="second">秒</string>
+    <string name="self_help">自行處理與面對</string>
+    <string name="self_help_counter_unit">點</string>
+    <string name="self_help_help">請問您現在的狀況？</string>
+    <string name="self_help_selection0">身邊有酒</string>
+    <string name="self_help_selection1">想買酒</string>
+    <string name="self_help_selection2">感到無聊</string>
+    <string name="self_help_selection3">覺得有壓力</string>
+    <string name="self_help_selection4">身體不舒服</string>
+    <string name="self_help_selection5">其他原因</string>
+    <string name="send">寄送</string>
+    <string name="sensor_wait">酒測器回復中，請稍待</string>
+    <string name="sensor_wait_try_again">請待酒測器回復後，再試一次</string>
+    <string name="setting_alarm">提醒設定</string>
+    <string name="setting_bluetooth">前往藍牙設定頁面</string>
+    <string name="setting_change_password">修改密碼</string>
+    <string name="setting_close_password">關閉密碼功能</string>
+    <string name="setting_contact">親友資訊</string>
+    <string name="setting_detection_id">檢測器編號</string>
+    <string name="setting_facebook">上傳臉書分享文字？</string>
+    <string name="setting_limit">抱歉！最多只能選擇十項</string>
+    <string name="setting_name">稱呼</string>
+    <string name="setting_open_password">開啟密碼功能</string>
+    <string name="setting_password">密碼設定</string>
+    <string name="setting_phone">電話號碼</string>
+    <string name="setting_privacy">隱私設定</string>
+    <string name="setting_recreation">休閒活動</string>
+    <string name="setting_social">社區諮商</string>
+    <string name="setting_system">系統設定</string>
+    <string name="setting_title">設定</string>
+    <string name="setting_user_voice">上傳自我管理紀錄錄音？</string>
+    <string name="start">開始</string>
+    <string name="start_emotion_diy_help">使用心情DIY自我處理 </string>
+    <string name="start_reflection">開始反思</string>
+    <string name="story_test_cancel">下次再做</string>
+    <string name="story_test_ok">確定送出</string>
+    <string name="storytelling_page_help">周數</string>
+    <string name="storytelling_test_agreement">您是否認同這句話？</string>
+    <string name="storytelling_test_correct">填入文字正確！</string>
+    <string name="storytelling_test_incorrect">填入文字錯誤，再試試看！</string>
+    <string name="storytelling_test_question">下面句子中空缺的字是？</string>
+    <string name="storytelling_test_title">自我測試</string>
+    <string name="storytelling_test_toast">您尚未選擇答案</string>
+    <string name="suggestion1">請試著想像自己躺在海上漂浮著</string>
+    <string name="sunday">日</string>
+    <string name="taipei_city_hospital">臺北市立聯合醫院</string>
+    <string name="testTimeCheckToast">酒測器回復中</string>
+    <string name="test_done">檢測完成</string>
+    <string name="test_fail">不通過</string>
+    <string name="test_guide_confirm_bottom">口水確認中</string>
+    <string name="test_guide_confirm_top">請稍後</string>
+    <string name="test_guide_connect_fail">連接中斷</string>
+    <string name="test_guide_connect_timeout">連接逾時</string>
+    <string name="test_guide_device_notsupport">裝置不支援</string>
+    <string name="test_guide_done_bottom">測試完成！</string>
+    <string name="test_guide_end">請點選\'確定\'按鈕</string>
+    <string name="test_guide_fail_retry">測試失敗，請更換試紙匣後重試</string>
+    <string name="test_guide_fivesecond_bottom">請蓄積口水</string>
+    <string name="test_guide_high_initial">酒測器未完全回復，請將酒測器啟動並放在通風處兩分鐘再測試</string>
+    <string name="test_guide_init_bottom">請稍待，檢測器準備中</string>
+    <string name="test_guide_init_top">請稍待，檢測器準備中</string>
+    <string name="test_guide_msg_box">請依對話框指示進行操作</string>
+    <string name="test_guide_multi_blow">吹氣不穩以致測試失敗</string>
+    <string name="test_guide_no_testplug">請將試紙匣插入裝置</string>
+    <string name="test_guide_not_turn_on">未啟動酒測裝置</string>
+    <string name="test_guide_notenough_bottom">請在10秒內再吐一口水</string>
+    <string name="test_guide_notenough_top">口水量不足</string>
+    <string name="test_guide_pressure_error">酒測器有損壞，請聯絡戒酒小幫手團隊予以更換</string>
+    <string name="test_guide_recovery_top">請稍待</string>
+    <string name="test_guide_reset_bottom">請開啟檢測器</string>
+    <string name="test_guide_retry">請更換試紙匣後重試</string>
+    <string name="test_guide_start_bottom">測試尚未開始</string>
+    <string name="test_guide_start_top">請點選\'開始\'進行測試</string>
+    <string name="test_guide_test_fail">酒測器沒電了</string>
+    <string name="test_guide_test_timeout">測試超時</string>
+    <string name="test_guide_testing_bottom">檢測器已可進行測試</string>
+    <string name="test_guide_testing_top">請將臉對於螢幕中央，並吐口水於管中</string>
+    <string name="test_guide_update_bottom">重新測試倒數中</string>
+    <string name="test_guide_update_top">請於倒數結束前重新進行酒測</string>
+    <string name="test_guide_zero_duration">連線錯誤，請重啟酒測器及手機藍牙功能</string>
+    <string name="test_none">未測試</string>
+    <string name="test_pass">通過</string>
+    <string name="thursday">四</string>
+    <string name="title_activity_cal">CalActivity</string>
+    <string name="title_activity_dev">DevActivity</string>
+    <string name="title_activity_event_cope_skill">EventCopeSkillActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_list_test">ListTestActivity</string>
+    <string name="title_activity_qtip">QTipActivity</string>
+    <string name="title_activity_tigger">TiggerActivity</string>
+    <string name="title_activity_timer">TImerActivity</string>
+    <string name="title_activity_tips">TipsActivity</string>
+    <string name="title_activity_trigger">新增記事</string>
+    <string name="today">今日</string>
+    <string name="today_test">今日測試</string>
+    <string name="today_test_none">尚未測試</string>
+    <string name="total">總共</string>
+    <string name="total_result">綜合資料</string>
+    <string name="trigger_page">新增記事</string>
+    <string name="try_again">酒測器回復後再重試</string>
+    <string name="try_again_test_help">請於倒數完成前再試一次</string>
+    <string name="try_again_toast">請依指示盡快重試</string>
+    <string name="try_to_do">我會完成</string>
+    <string name="tuesday">二</string>
+    <string name="tutorial_next">點擊進入下一步</string>
+    <string name="tutorial_step1">按下開關，使指示燈亮起</string>
+    <string name="tutorial_step2">進入測試頁面按下開始按鈕</string>
+    <string name="tutorial_step3">對準吹氣口持續吹氣五秒鐘</string>
+    <string name="uploading">上傳中</string>
+    <string name="voice_main_help">我的留言：</string>
+    <string name="wait">請稍待</string>
+    <string name="website"><u>查看戒酒新知</u></string>
+    <string name="wednesday">三</string>
+    <string name="week_test">每周測試統計</string>
+    <string name="year">年</string>
+    <string name="yes">是</string>
+    <string name="yuda_huang">Yuga Huang</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    <!--    
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.-->     
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="selectorDialog" parent="@android:style/Theme.Dialog">
+	    <!-- 邊框 -->
+	    <item name="android:windowFrame">@null</item>
+	    <!-- 是否浮现在activity之上 -->
+	    <item name="android:windowIsFloating">true</item>
+	    <!-- 整個 layout 半透明 -->
+	    <item name="android:windowIsTranslucent">true</item>
+	    <!-- 拿掉標題 -->
+	    <item name="android:windowNoTitle">true</item>
+	    <!-- 背景透明 -->
+	    <item name="android:windowBackground">@drawable/selector_dialog_bg</item>
+	    <!-- 由 XML 設定 Dialog 視窗是否變暗 -->
+	    <item name="android:backgroundDimEnabled">false</item>
+	    <!-- 亮度從 0 到 1.0 -->
+	    <item name="android:backgroundDimAmount">0.2</item>
+	</style>
+</resources>
