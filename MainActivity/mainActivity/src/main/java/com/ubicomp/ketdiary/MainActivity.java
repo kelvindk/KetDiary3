@@ -101,6 +101,8 @@ public class MainActivity extends FragmentActivity implements OnFragmentListener
 
 	private static final String[] tabName = { "Test", "Statistic",
 			"Storytelling" };
+
+	// setup the three icons on main screen
 	private static final int[] iconId = { R.drawable.tab_test_selector,
 			R.drawable.tab_statistic_selector,
 			R.drawable.tab_storytelling_selector };
@@ -274,9 +276,9 @@ public class MainActivity extends FragmentActivity implements OnFragmentListener
 			tabHost.setup();
 
 			if (tabs == null)
-				tabs = new TabSpec[3];
+				tabs = new TabSpec[4];
 			if (customTabs == null)
-				customTabs = new CustomTab[3];
+				customTabs = new CustomTab[4];
 
 			for (int i = 0; i < 3; ++i) {
 				customTabs[i] = new CustomTab(iconId[i], iconOnId[i]);

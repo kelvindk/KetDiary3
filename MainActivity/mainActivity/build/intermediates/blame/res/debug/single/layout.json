@@ -1,482 +1,482 @@
 [
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_thinking2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_thinking2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_about.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_contact_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_contact_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_info.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_info.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_date.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_date.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/menu.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/menu.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_filter.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_filter.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_checkbox_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_checkbox_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/my_listitem.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/my_listitem.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_cassette.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_cassette.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_password.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_password.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_counter_view2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_counter_view2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_list_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_list_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_item_inv.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_item_inv.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_type_name.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_type_name.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_filter_detail.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_filter_detail.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_separate.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_separate.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_three_buttons.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_three_buttons.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_radio_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_radio_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_info.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_info.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_notify_thinking.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_notify_thinking.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/typepager_self.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/typepager_self.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_callout_check.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_callout_check.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_password.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_password.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/typepager_other.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/typepager_other.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_month_view.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_month_view.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_date.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_date.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/choose_listitem.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/choose_listitem.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_separate2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_separate2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_multi_select_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_multi_select_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_radar_chart.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_radar_chart.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_mydaybook.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_mydaybook.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_yes_no_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_yes_no_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_note_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_note_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_cassette.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_cassette.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_day_view.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_day_view.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_null.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_null.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_upperbar.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_upperbar.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_statistic_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_statistic_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_upperbar2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_upperbar2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_spinner.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_spinner.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/note.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/note.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/mood_listitem.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/mood_listitem.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_emotion.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_emotion.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_normal.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_normal.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_spinner.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_spinner.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_reaction.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_reaction.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_thinking.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_thinking.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_identity.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_identity.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_choose_item2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_choose_item2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/title_spinner.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/title_spinner.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_developer.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_developer.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_tutorial.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_choose_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_choose_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_note.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_note.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_notification.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_notification.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/my_spinner.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/my_spinner.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item_cbt.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item_cbt.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_test2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_test2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_three_buttons.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_three_buttons.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_thinking.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_thinking.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_emotion.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_emotion.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_saving_view.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_saving_view.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_qtip.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_qtip.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/password_baseed.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/password_baseed.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_item_inv.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_item_inv.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_choose_item2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_choose_item2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_test2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_test2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_radio_group.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_radio_group.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/note.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/note.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_note.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_note.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_question2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_question2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_recreation_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_recreation_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_one_button.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_one_button.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_password.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_password.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_saving_view.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_saving_view.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/title_spinner.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/title_spinner.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_end_animation.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_end_animation.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/rank_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/rank_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_appeal.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_appeal.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_callout_check.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_callout_check.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/knowledge.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/knowledge.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_calendar.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_calendar.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_dev.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_dev.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_tutorial_new_sensor.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_tutorial_new_sensor.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_detail_activity.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_detail_activity.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/menu.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_setting_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_setting_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_blank_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_blank_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_note_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_note_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_thinking.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_thinking.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_setting_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_setting_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_area_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_area_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/my_listitem.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/my_listitem.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_reaction.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_reaction.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_cell.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_cell.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_calendar.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_calendar.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_qtip.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_qtip.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_rank_view.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_rank_view.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_upperbar2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_upperbar2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_checkbox_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_checkbox_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item_cbt.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item_cbt.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_detail_rank.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_detail_rank.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_end_animation2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_end_animation2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/knowledge.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/knowledge.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/tab_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/tab_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_normal.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_normal.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_pre_setting.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_pre_setting.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_full_screen.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_full_screen.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote3.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote3.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_radar_chart.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_radar_chart.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_recreation_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_recreation_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_identity.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_identity.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_statistic_questionnaire.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_statistic_questionnaire.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_note.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_note.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_rank_view.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_rank_view.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_separate2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_separate2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_setting.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_statistic.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_statistic.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_radio_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_radio_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/my_spinner.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/my_spinner.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_titlebar.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_titlebar.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_event.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_event.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_large_edit_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_large_edit_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/rank_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/rank_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/choose_listitem.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/choose_listitem.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_end_animation2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_end_animation2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_detail_rank.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_detail_rank.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_seekbar_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_seekbar_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/note_main2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/note_main2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/mood_listitem.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/mood_listitem.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_item_inv.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_item_inv.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/rank_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/rank_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_animation_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_animation_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_radio_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_radio_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_radio_group.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_radio_group.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_pre_setting.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_pre_setting.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_thinking.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_thinking.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_appeal.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_appeal.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/analysis_counter_view2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/analysis_counter_view2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_statistic_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_statistic_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/note_main2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/note_main2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_multi_select_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_multi_select_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_end_animation.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_end_animation.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_note.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_note.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_loading.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/rank_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/rank_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_coping.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_coping.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_cell.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_cell.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_titlebar.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_titlebar.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_question2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_question2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_dev.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_dev.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_tutorial.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_yes_no_item2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_yes_no_item2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/typepager_other.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/typepager_other.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/typepager_self.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/typepager_self.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_about.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_about.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_question.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_question.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_impact.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_impact.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_filter.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_filter.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_yes_no_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_yes_no_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_password.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_radio_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_radio_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_impact.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_impact.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_tutorial_new_sensor.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_tutorial_new_sensor.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/sort_filter.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/sort_filter.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/diary_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/diary_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_upload.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_upload.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/toast_full_screen.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/toast_full_screen.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_notify_thinking.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_notify_thinking.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_large_edit_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_large_edit_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_mood.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_mood.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_yes_no_item2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_yes_no_item2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_blank_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_blank_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/sort_filter.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/sort_filter.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_developer.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_developer.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/password_baseed.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/password_baseed.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_loading.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_separate.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_separate.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_seekbar_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_seekbar_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_animation_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_animation_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text_area_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text_area_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_event.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_event.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_choose_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_choose_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_coping.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_coping.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_description_mood.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_description_mood.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_day_view.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_day_view.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_text.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_text.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_icon_item_inv.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_icon_item_inv.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_statistic_questionnaire.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_statistic_questionnaire.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_contact_item.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_contact_item.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_addnote3.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_addnote3.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/linechart_upperbar.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/linechart_upperbar.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/tab_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/tab_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_edit_thinking2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_edit_thinking2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_one_button.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_one_button.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_month_view.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_month_view.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_type_name.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_type_name.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_detail_activity.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_detail_activity.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_week_view.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_week_view.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_mydaybook.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_mydaybook.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_filter_detail.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_filter_detail.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_upperbar.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_upperbar.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/activity_setting.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/activity_setting.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/custom_dialog_main.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/custom_dialog_main.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/custom_dialog_main.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/custom_dialog_main.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/fragment_statistic.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/fragment_statistic.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_answer_question.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_answer_question.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/statistic_week_view.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/statistic_week_view.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_null.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_null.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog_upload.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog_upload.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_list_item.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_list_item.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/bar_notification.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/bar_notification.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/calendar_upperbar.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/layout/calendar_upperbar.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/layout/dialog.xml"
     }
 ]

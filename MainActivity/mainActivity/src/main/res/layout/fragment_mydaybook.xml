@@ -49,7 +49,8 @@
         android:id="@+id/diary_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" 
-        android:layout_below="@id/upper_bar" >
+        android:layout_below="@id/upper_bar"
+		android:fillViewport="false">
         <LinearLayout
             android:id="@+id/item"
 	        android:layout_width="match_parent"

@@ -1,50 +1,50 @@
 [
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_random_question.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_random_question.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_stretch.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_stretch.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_clock2.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_clock2.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_breath.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_breath.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_left_enter.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_left_enter.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_random_question.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_random_question.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_music.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_music.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_left_exit.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_left_exit.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_breath.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_breath.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_right_enter.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_right_enter.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_right_exit.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_right_exit.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_left_enter.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_left_enter.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_clock.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_clock.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_clock.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_clock.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_left_exit.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_left_exit.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_music.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_music.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_walk.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_walk.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_right_exit.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_right_exit.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_tutorial_arrow.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_tutorial_arrow.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_clock2.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_clock2.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_right_enter.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_right_enter.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_tutorial_arrow.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_tutorial_arrow.xml"
     },
     {
-        "merged": "/Users/yu/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_stretch.xml",
-        "source": "/Users/yu/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_stretch.xml"
+        "merged": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/res/merged/debug/anim/animation_walk.xml",
+        "source": "/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/src/main/res/anim/animation_walk.xml"
     }
 ]

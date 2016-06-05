@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/libs/httpmime-4.3.5.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.5_f664174df963cc0ef9e0a3aff1ebf7538e51f318/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/libs/httpcore-4.3.2.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.2_4a478720341b42fe972d94257687589d68b380ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="adbe551cebe7966af5e87ee34d91650b15853325">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_763943715bd6a9ad2beb02a176608c07ef926e2d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_ec0a3b9ddb80b7fcb7da48ef4e73c12619d76d1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/libs/libsvm.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2013c6a0ecc8a450e15833715ecf34023fee4a56">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/2/libsvm_4623e348d2dd06bdaf51dbd5655680684ac2a2e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1b9365e869325752a12a7507379aba6ae88a619f">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb05b798e7ba5a608c8f27489da89d080d492ff7/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_6658c117293958a7383bcbb346a57fefebf27ee4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kelvindk/Documents/Github/KetDiary3/MainActivity/mainActivity/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_acdb8a49980edad7fa68a14d21f3a6e410a93a84/classes.dex" />
+    </item>
+
+</items>

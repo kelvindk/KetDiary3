@@ -18,7 +18,7 @@
             <TabWidget
                 android:id="@android:id/tabs"
                 android:layout_width="match_parent"
-                android:layout_height="70dp"
+                android:layout_height="50dp"
                 android:layout_alignParentBottom="true"
                 android:background="@drawable/bottom_bar_bg"
                 android:orientation="horizontal"
@@ -70,6 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/loadingpage3" />
+        android:src="@drawable/loadingpage3"
+        android:visibility="invisible" />
 
 </RelativeLayout>
